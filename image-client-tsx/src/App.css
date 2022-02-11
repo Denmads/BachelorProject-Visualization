@@ -1,0 +1,8 @@
+body {
+  overflow: hidden;
+}
+
+#background {
+  background-color: rgb(240, 238, 223);
+  height: 100vh;
+}

@@ -1,0 +1,22 @@
+.column {
+    min-width: 300px;
+    min-height: 200px;
+}
+
+.columnContainer {
+    gap: 5px;
+}
+
+.columnButton {
+    max-width: fit-content;
+}
+
+.constraintList {
+    gap: 5px;
+}
+
+.constraint {
+    min-height: 20px;
+    padding: 5px;
+    background-color: #999;
+}

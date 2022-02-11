@@ -1,0 +1,7 @@
+D:\Software_engineering\6.semester-Bachelor\Bachelor\Bachelor-image-visualisation\ImageMergeTest\ImageMergeTest\bin\Debug\ImageMergeTest.exe.config
+D:\Software_engineering\6.semester-Bachelor\Bachelor\Bachelor-image-visualisation\ImageMergeTest\ImageMergeTest\bin\Debug\ImageMergeTest.exe
+D:\Software_engineering\6.semester-Bachelor\Bachelor\Bachelor-image-visualisation\ImageMergeTest\ImageMergeTest\bin\Debug\ImageMergeTest.pdb
+D:\Software_engineering\6.semester-Bachelor\Bachelor\Bachelor-image-visualisation\ImageMergeTest\ImageMergeTest\obj\Debug\ImageMergeTest.csprojAssemblyReference.cache
+D:\Software_engineering\6.semester-Bachelor\Bachelor\Bachelor-image-visualisation\ImageMergeTest\ImageMergeTest\obj\Debug\ImageMergeTest.csproj.CoreCompileInputs.cache
+D:\Software_engineering\6.semester-Bachelor\Bachelor\Bachelor-image-visualisation\ImageMergeTest\ImageMergeTest\obj\Debug\ImageMergeTest.exe
+D:\Software_engineering\6.semester-Bachelor\Bachelor\Bachelor-image-visualisation\ImageMergeTest\ImageMergeTest\obj\Debug\ImageMergeTest.pdb
